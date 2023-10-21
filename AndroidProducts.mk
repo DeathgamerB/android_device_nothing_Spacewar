@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_Spacewar.mk
+    $(LOCAL_DIR)/derp_Spacewar.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_Spacewar-userdebug \
-    lineage_Spacewar-user \
-    lineage_Spacewar-eng
+    derp_Spacewar-userdebug \
+    derp_Spacewar-user \
+    derp_Spacewar-eng
